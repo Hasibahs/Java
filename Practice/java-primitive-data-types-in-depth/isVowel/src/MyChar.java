@@ -7,9 +7,10 @@ public class MyChar
         this.ch = ch;
     }
 
-    public char getCh()
+    public int getCh()
     {
-        return ch;
+        int ABC = (int) ch;
+        return ABC;
     }
 
     public boolean isVowel()
@@ -20,17 +21,49 @@ public class MyChar
         } else return false;
     }
 
-    public boolean isConsonent()
-    {
-        return false;
-    }
-
     public boolean isDigit()
     {
         if (ch == '0' || ch == '1' || ch == '2' || ch == '3' || ch == '4' || ch == '5' || ch == '6' || ch == '7' || ch == '8' || ch == '9')
         {
             return true;
         } else return false;
+    }
+
+    public boolean isAlphabet()
+    {
+        if (ch >= 97 && ch <= 122 || ch >= 65 && ch <= 90) // between a to z and A to Z
+        {
+            return true;
+        }
+        return false;
+    }
+
+    public boolean isConsonent()
+    {
+        if (isAlphabet() && !isVowel())
+        {
+            return true;
+        }
+        return false;
+    }
+
+    public static void printLowerCaseAlphabets()
+    {
+        for (char ch = 'a'; ch <= 'z'; ch++)
+        {
+            System.out.println(ch);
+
+        }
+    }
+
+    public static void printUpperCaseAlphabets()
+    {
+        for (char ch = 'A'; ch <= 'Z'; ch++)
+        {
+            System.out.println(ch);
+
+        }
+
     }
 
 
