@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Basic/Basic.iml" filepath="$PROJECT_DIR$/Basic/Basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/introduction-to-object-oriented-programming/Book/Book.iml" filepath="$PROJECT_DIR$/introduction-to-object-oriented-programming/Book/Book.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice.iml" filepath="$PROJECT_DIR$/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class/class.iml" filepath="$PROJECT_DIR$/class/class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-primitive-data-types-in-depth/interestCalculator/interestCalculator.iml" filepath="$PROJECT_DIR$/java-primitive-data-types-in-depth/interestCalculator/interestCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/introduction-to-object-oriented-programming/introduction-to-object-oriented-programming.iml" filepath="$PROJECT_DIR$/introduction-to-object-oriented-programming/introduction-to-object-oriented-programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-primitive-data-types-in-depth/java-primitive-data-types-in-depth.iml" filepath="$PROJECT_DIR$/java-primitive-data-types-in-depth/java-primitive-data-types-in-depth.iml" />
     </modules>
   </component>
 </project>
