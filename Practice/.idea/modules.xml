@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/Practice.iml" filepath="$PROJECT_DIR$/Practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/class/class.iml" filepath="$PROJECT_DIR$/class/class.iml" />
       <module fileurl="file://$PROJECT_DIR$/conditionals-if-and-switch/conditionals-if-and-switch.iml" filepath="$PROJECT_DIR$/conditionals-if-and-switch/conditionals-if-and-switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/doWhileLoop/doWhileLoop.iml" filepath="$PROJECT_DIR$/loops/doWhileLoop/doWhileLoop.iml" />
       <module fileurl="file://$PROJECT_DIR$/conditionals-if-and-switch/if-else/if-else.iml" filepath="$PROJECT_DIR$/conditionals-if-and-switch/if-else/if-else.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-primitive-data-types-in-depth/interestCalculator/interestCalculator.iml" filepath="$PROJECT_DIR$/java-primitive-data-types-in-depth/interestCalculator/interestCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/introduction-to-object-oriented-programming/introduction-to-object-oriented-programming.iml" filepath="$PROJECT_DIR$/introduction-to-object-oriented-programming/introduction-to-object-oriented-programming.iml" />
@@ -16,7 +17,8 @@
       <module fileurl="file://$PROJECT_DIR$/java-primitive-data-types-in-depth/java-primitive-data-types-in-depth.iml" filepath="$PROJECT_DIR$/java-primitive-data-types-in-depth/java-primitive-data-types-in-depth.iml" />
       <module fileurl="file://$PROJECT_DIR$/loops/loops.iml" filepath="$PROJECT_DIR$/loops/loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/loops/MyNumber/number triangle/number triangle.iml" filepath="$PROJECT_DIR$/loops/MyNumber/number triangle/number triangle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/loops/whileLoop/whileLoop.iml" filepath="$PROJECT_DIR$/loops/whileLoop/whileLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/doWhileLoop/practice/practice.iml" filepath="$PROJECT_DIR$/loops/doWhileLoop/practice/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/MyNumber/whileNumber/whileNumber.iml" filepath="$PROJECT_DIR$/loops/MyNumber/whileNumber/whileNumber.iml" />
     </modules>
   </component>
 </project>
