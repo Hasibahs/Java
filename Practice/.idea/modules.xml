@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/loops/loops.iml" filepath="$PROJECT_DIR$/loops/loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/loops/MyNumber/number triangle/number triangle.iml" filepath="$PROJECT_DIR$/loops/MyNumber/number triangle/number triangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/loops/doWhileLoop/practice/practice.iml" filepath="$PROJECT_DIR$/loops/doWhileLoop/practice/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student/student.iml" filepath="$PROJECT_DIR$/student/student.iml" />
       <module fileurl="file://$PROJECT_DIR$/loops/MyNumber/whileNumber/whileNumber.iml" filepath="$PROJECT_DIR$/loops/MyNumber/whileNumber/whileNumber.iml" />
     </modules>
   </component>
